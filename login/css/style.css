@@ -100,3 +100,18 @@ top:2px
 input[name="username"]:focus + .fas{color: #2DCF96 ;
 
 }
+
+input[type="submit"] {
+
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(2,0,36,1) 0%, rgba(45,207,144,1) 53%, rgba(0,212,255,1) 100%);
+width: 285px;
+height: 35px;
+border-radius: 25px;
+margin-left: 17px;
+border: 1px seagreen;
+text-transform: uppercase;
+color:  white;
+font-weight: bold;
+
+}

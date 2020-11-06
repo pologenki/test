@@ -1,0 +1,30 @@
+/*!
+ * Start Bootstrap - Business Frontpage (https://startbootstrap.com/template/business-frontpage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-business-frontpage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+
+#carouselExampleControls{
+
+  height: 300px;
+}
+
+
+.d-block{
+height: 400px;
+
+
+}
+.containertop{
+background-color: gray;
+border-radius: 20px;
+
+/*Мы выносим на передний фон этот кантейнер*/
+
+}
+.carousel-item {
+  z-index:-1;
+}
